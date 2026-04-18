@@ -1,5 +1,4 @@
-# Large files
-data.zip
+# Large files tracked by Git LFS
 
 # Python
 __pycache__/
