@@ -1,0 +1,93 @@
+Nome da Imagem;Data/Hora;Categoria Detectada;Acurácia (Confiança);Tipo de Anomalia;Localidade;Cultura
+campo_A_001;2026-01-05 08:12:00;DOENTE;91.20%;Mancha Foliar;Fazenda Norte;Soja
+campo_A_002;2026-01-05 08:45:00;SAUDÁVEL;88.50%;Nenhuma;Fazenda Norte;Soja
+campo_A_003;2026-01-05 09:10:00;DOENTE;96.78%;Ferrugem;Fazenda Norte;Soja
+campo_A_004;2026-01-05 10:00:00;DOENTE;84.33%;Míldio;Fazenda Norte;Soja
+campo_A_005;2026-01-06 07:30:00;SAUDÁVEL;79.60%;Nenhuma;Fazenda Norte;Soja
+campo_A_006;2026-01-06 08:00:00;DOENTE;93.10%;Mancha Foliar;Fazenda Norte;Soja
+campo_A_007;2026-01-06 09:20:00;SAUDÁVEL;82.40%;Nenhuma;Fazenda Norte;Soja
+campo_A_008;2026-01-07 07:00:00;DOENTE;97.55%;Ferrugem;Fazenda Norte;Soja
+campo_A_009;2026-01-07 08:30:00;DOENTE;88.90%;Antracnose;Fazenda Norte;Soja
+campo_A_010;2026-01-07 10:15:00;SAUDÁVEL;75.20%;Nenhuma;Fazenda Norte;Soja
+campo_B_001;2026-01-08 06:00:00;SAUDÁVEL;90.10%;Nenhuma;Fazenda Sul;Milho
+campo_B_002;2026-01-08 07:15:00;DOENTE;85.70%;Míldio;Fazenda Sul;Milho
+campo_B_003;2026-01-08 08:00:00;SAUDÁVEL;88.00%;Nenhuma;Fazenda Sul;Milho
+campo_B_004;2026-01-09 06:30:00;DOENTE;92.40%;Mancha Foliar;Fazenda Sul;Milho
+campo_B_005;2026-01-09 07:45:00;SAUDÁVEL;77.80%;Nenhuma;Fazenda Sul;Milho
+campo_B_006;2026-01-09 09:00:00;DOENTE;89.60%;Ferrugem;Fazenda Sul;Milho
+campo_B_007;2026-01-10 06:00:00;SAUDÁVEL;83.30%;Nenhuma;Fazenda Sul;Milho
+campo_B_008;2026-01-10 07:30:00;DOENTE;94.20%;Antracnose;Fazenda Sul;Milho
+campo_B_009;2026-01-10 09:00:00;SAUDÁVEL;80.50%;Nenhuma;Fazenda Sul;Milho
+campo_B_010;2026-01-11 06:15:00;DOENTE;87.90%;Míldio;Fazenda Sul;Milho
+campo_C_001;2026-01-12 07:00:00;DOENTE;95.30%;Ferrugem;Sítio Leste;Café
+campo_C_002;2026-01-12 08:20:00;SAUDÁVEL;84.10%;Nenhuma;Sítio Leste;Café
+campo_C_003;2026-01-12 09:40:00;DOENTE;91.75%;Mancha Foliar;Sítio Leste;Café
+campo_C_004;2026-01-13 07:00:00;SAUDÁVEL;78.60%;Nenhuma;Sítio Leste;Café
+campo_C_005;2026-01-13 08:30:00;DOENTE;88.45%;Antracnose;Sítio Leste;Café
+campo_C_006;2026-01-14 07:15:00;SAUDÁVEL;86.20%;Nenhuma;Sítio Leste;Café
+campo_C_007;2026-01-14 08:50:00;DOENTE;93.60%;Míldio;Sítio Leste;Café
+campo_C_008;2026-01-15 06:45:00;SAUDÁVEL;81.30%;Nenhuma;Sítio Leste;Café
+campo_C_009;2026-01-15 08:00:00;DOENTE;96.10%;Ferrugem;Sítio Leste;Café
+campo_C_010;2026-01-16 07:30:00;SAUDÁVEL;74.80%;Nenhuma;Sítio Leste;Café
+campo_D_001;2026-02-01 07:00:00;DOENTE;89.40%;Mancha Foliar;Fazenda Oeste;Trigo
+campo_D_002;2026-02-01 08:15:00;SAUDÁVEL;85.90%;Nenhuma;Fazenda Oeste;Trigo
+campo_D_003;2026-02-02 07:30:00;DOENTE;92.70%;Ferrugem;Fazenda Oeste;Trigo
+campo_D_004;2026-02-02 09:00:00;SAUDÁVEL;79.20%;Nenhuma;Fazenda Oeste;Trigo
+campo_D_005;2026-02-03 06:45:00;DOENTE;94.80%;Antracnose;Fazenda Oeste;Trigo
+campo_D_006;2026-02-03 08:30:00;SAUDÁVEL;82.10%;Nenhuma;Fazenda Oeste;Trigo
+campo_D_007;2026-02-04 07:00:00;DOENTE;87.30%;Míldio;Fazenda Oeste;Trigo
+campo_D_008;2026-02-04 09:15:00;SAUDÁVEL;76.50%;Nenhuma;Fazenda Oeste;Trigo
+campo_D_009;2026-02-05 07:45:00;DOENTE;90.60%;Mancha Foliar;Fazenda Oeste;Trigo
+campo_D_010;2026-02-05 09:30:00;SAUDÁVEL;83.70%;Nenhuma;Fazenda Oeste;Trigo
+campo_E_001;2026-02-10 08:00:00;DOENTE;95.50%;Ferrugem;Fazenda Norte;Soja
+campo_E_002;2026-02-10 09:20:00;SAUDÁVEL;88.30%;Nenhuma;Fazenda Norte;Soja
+campo_E_003;2026-02-11 07:30:00;DOENTE;91.40%;Mancha Foliar;Fazenda Norte;Soja
+campo_E_004;2026-02-11 09:00:00;SAUDÁVEL;80.70%;Nenhuma;Fazenda Norte;Soja
+campo_E_005;2026-02-12 08:15:00;DOENTE;93.20%;Antracnose;Fazenda Sul;Milho
+campo_E_006;2026-02-12 10:00:00;SAUDÁVEL;77.40%;Nenhuma;Fazenda Sul;Milho
+campo_E_007;2026-02-13 07:00:00;DOENTE;86.80%;Míldio;Sítio Leste;Café
+campo_E_008;2026-02-13 08:45:00;SAUDÁVEL;84.60%;Nenhuma;Sítio Leste;Café
+campo_E_009;2026-02-14 07:30:00;DOENTE;97.10%;Ferrugem;Fazenda Oeste;Trigo
+campo_E_010;2026-02-14 09:15:00;SAUDÁVEL;81.90%;Nenhuma;Fazenda Oeste;Trigo
+campo_F_001;2026-03-01 08:00:00;DOENTE;90.30%;Mancha Foliar;Fazenda Norte;Soja
+campo_F_002;2026-03-01 09:30:00;SAUDÁVEL;86.10%;Nenhuma;Fazenda Norte;Soja
+campo_F_003;2026-03-02 07:15:00;DOENTE;92.90%;Ferrugem;Fazenda Sul;Milho
+campo_F_004;2026-03-02 08:50:00;SAUDÁVEL;78.40%;Nenhuma;Fazenda Sul;Milho
+campo_F_005;2026-03-03 06:30:00;DOENTE;88.70%;Antracnose;Sítio Leste;Café
+campo_F_006;2026-03-03 08:00:00;SAUDÁVEL;83.50%;Nenhuma;Sítio Leste;Café
+campo_F_007;2026-03-04 07:45:00;DOENTE;94.60%;Míldio;Fazenda Oeste;Trigo
+campo_F_008;2026-03-04 09:20:00;SAUDÁVEL;80.20%;Nenhuma;Fazenda Oeste;Trigo
+campo_F_009;2026-03-05 08:10:00;DOENTE;96.40%;Ferrugem;Fazenda Norte;Soja
+campo_F_010;2026-03-05 10:00:00;SAUDÁVEL;75.90%;Nenhuma;Fazenda Norte;Soja
+captura_150315;2026-03-11 15:03:15;SAUDÁVEL;62.04%;Nenhuma;Fazenda Norte;Soja
+captura_150359;2026-03-11 15:03:59;DOENTE;99.43%;Mancha Foliar;Fazenda Norte;Soja
+campo_G_001;2026-03-15 07:00:00;DOENTE;91.80%;Ferrugem;Fazenda Sul;Milho
+campo_G_002;2026-03-15 08:30:00;SAUDÁVEL;85.40%;Nenhuma;Fazenda Sul;Milho
+campo_G_003;2026-03-16 07:15:00;DOENTE;89.20%;Mancha Foliar;Sítio Leste;Café
+campo_G_004;2026-03-16 09:00:00;SAUDÁVEL;82.70%;Nenhuma;Sítio Leste;Café
+campo_G_005;2026-03-17 06:45:00;DOENTE;93.50%;Antracnose;Fazenda Oeste;Trigo
+campo_G_006;2026-03-17 08:20:00;SAUDÁVEL;79.30%;Nenhuma;Fazenda Oeste;Trigo
+campo_G_007;2026-03-18 07:30:00;DOENTE;87.60%;Míldio;Fazenda Norte;Soja
+campo_G_008;2026-03-18 09:10:00;SAUDÁVEL;84.80%;Nenhuma;Fazenda Norte;Soja
+campo_G_009;2026-03-19 07:00:00;DOENTE;95.70%;Ferrugem;Fazenda Sul;Milho
+campo_G_010;2026-03-19 08:45:00;SAUDÁVEL;77.10%;Nenhuma;Fazenda Sul;Milho
+campo_H_001;2026-04-01 08:00:00;DOENTE;92.30%;Mancha Foliar;Sítio Leste;Café
+campo_H_002;2026-04-01 09:30:00;SAUDÁVEL;86.90%;Nenhuma;Sítio Leste;Café
+campo_H_003;2026-04-02 07:20:00;DOENTE;94.10%;Ferrugem;Fazenda Oeste;Trigo
+campo_H_004;2026-04-02 08:50:00;SAUDÁVEL;81.50%;Nenhuma;Fazenda Oeste;Trigo
+campo_H_005;2026-04-03 07:00:00;DOENTE;88.40%;Antracnose;Fazenda Norte;Soja
+campo_H_006;2026-04-03 08:30:00;SAUDÁVEL;83.20%;Nenhuma;Fazenda Norte;Soja
+campo_H_007;2026-04-04 06:45:00;DOENTE;96.80%;Míldio;Fazenda Sul;Milho
+campo_H_008;2026-04-04 08:15:00;SAUDÁVEL;78.60%;Nenhuma;Fazenda Sul;Milho
+campo_H_009;2026-04-05 07:30:00;DOENTE;90.90%;Ferrugem;Sítio Leste;Café
+campo_H_010;2026-04-05 09:00:00;SAUDÁVEL;85.70%;Nenhuma;Sítio Leste;Café
+campo_I_001;2026-04-10 08:00:00;DOENTE;93.40%;Mancha Foliar;Fazenda Norte;Soja
+campo_I_002;2026-04-10 09:20:00;SAUDÁVEL;87.80%;Nenhuma;Fazenda Norte;Soja
+campo_I_003;2026-04-11 07:10:00;DOENTE;91.60%;Ferrugem;Fazenda Sul;Milho
+campo_I_004;2026-04-11 08:40:00;SAUDÁVEL;80.30%;Nenhuma;Fazenda Sul;Milho
+campo_I_005;2026-04-12 07:30:00;DOENTE;89.70%;Antracnose;Sítio Leste;Café
+campo_I_006;2026-04-12 09:00:00;SAUDÁVEL;76.90%;Nenhuma;Sítio Leste;Café
+campo_I_007;2026-04-13 08:15:00;DOENTE;94.50%;Míldio;Fazenda Oeste;Trigo
+campo_I_008;2026-04-13 10:00:00;SAUDÁVEL;82.40%;Nenhuma;Fazenda Oeste;Trigo
+campo_I_009;2026-04-14 07:45:00;DOENTE;97.30%;Ferrugem;Fazenda Norte;Soja
+campo_I_010;2026-04-14 09:30:00;SAUDÁVEL;84.10%;Nenhuma;Fazenda Norte;Soja
