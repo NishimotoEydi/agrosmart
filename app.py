@@ -84,7 +84,8 @@ ROXO    = "#6a1b9a"
 
 def carregar_dados():
     frames = []
-    for path in [CSV_SIM, CSV_PATH]:
+    #for path in [CSV_SIM, CSV_PATH]:
+    for path in [CSV_PATH]:
         if os.path.exists(path):
             try:
                 df = pd.read_csv(path, sep=";", encoding="utf-8-sig")

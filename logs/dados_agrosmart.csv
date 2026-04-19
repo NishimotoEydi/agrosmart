@@ -1,3 +1,6 @@
-Nome da Imagem;Data/Hora;Categoria Detectada;Acurácia (Confiança)
-captura_150315;2026-03-11 15:03:15;SAUDÁVEL;62.04%
-captura_150359;2026-03-11 15:03:59;DOENTE;99.43%
+Nome da Imagem;Data/Hora;Categoria Detectada;Acurácia (Confiança);Tipo de Anomalia;Localidade;Cultura
+captura_150315;2026-03-11 15:03:15;SAUDÁVEL;62.04%;Não informado;Não informado;Não informado
+captura_150359;2026-03-11 15:03:59;DOENTE;99.43%;Não informado;Não informado;Não informado
+captura_205220;2026-04-18 20:52:20;SAUDÁVEL;64.51%;Não informado;Não informado;Não informado
+captura_210739;2026-04-18 21:07:39;SAUDÁVEL;64.51%;Não informado;Não informado;Não informado
+captura_211525;2026-04-18 21:15:25;SAUDÁVEL;64.51%;Não informado;Não informado;Não informado
